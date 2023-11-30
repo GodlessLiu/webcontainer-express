@@ -1,3 +1,7 @@
+/** 
+ * Demo 1
+ * 没有交互性，自动启动
+ */ 
 import { WebContainer } from '@webcontainer/api';
 import { files } from './resource/files';
 import { iframeEl, terminalEl, textareaEl } from './main';

@@ -1,6 +1,7 @@
 import './style.css'
-import './webContainer'
+import './webContainer1'
 import 'xterm/css/xterm.css';
+
 document.querySelector('#app')!.innerHTML = `
   <div class="container">
     <div class="editor">
